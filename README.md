@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**siddhantdubey/siddhantdubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Sid.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various NLP Projects with PyTorch and teaching Machine Learning to students at my high school! Also writing my college apps!
+- 🌱 I’m currently learning Julia, Video Editing, and Animation with Manim.
+- 👯 I’m looking to collaborate on Machine Learning Projects and Web Apps. As long as it is interesting, I'm happy to collaborate.
+- 💬 Ask me about Brandon Sanderson's books and Competitive Programming!
+- 📫 How to reach me:
+  - Email: sid12.dubey@gmail.com
+  - Twitter: @sid_dubey0312
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love fantasy books.
