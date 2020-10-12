@@ -13,6 +13,5 @@
 ## My GitHub Stats
 
 [![Sid's github stats](https://github-readme-stats.vercel.app/api?username=siddhantdubey)](https://github.com/anuraghazra/github-readme-stats)
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
