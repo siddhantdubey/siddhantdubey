@@ -9,3 +9,8 @@
   - Twitter: @sid_dubey0312
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love fantasy books.
+
+## My GitHub Stats
+
+[![Sid's github stats](https://github-readme-stats.vercel.app/api?username=siddhantdubey)](https://github.com/anuraghazra/github-readme-stats)
+
