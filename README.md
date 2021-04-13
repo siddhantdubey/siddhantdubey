@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sid.
 
-- 🔭 I’m currently working on various NLP Projects with PyTorch and teaching Machine Learning to students at my high school! I'm also spending a lot of time writing my college apps :).
+- 🔭 I’m currently working on various NLP Projects with PyTorch and teaching Machine Learning to students at my high school! 
 - 🌱 I’m currently learning Julia, Video Editing, and Animation with Manim.
 - 👯 I’m looking to collaborate on Machine Learning Projects and Web Apps. As long as it is interesting, I'm happy to collaborate.
 - 💬 You can read up on my work here: [Sidd Codes](https://www.siddcodes.com/).
