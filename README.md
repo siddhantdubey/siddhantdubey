@@ -6,7 +6,7 @@
 - 💬 You can read up on my work here: [Sidd Codes](https://www.siddcodes.com/).
 - I make YouTube videos: [YouTube Channel](https://www.youtube.com/channel/UC5opyqV7wblMILfowGlPPnA?view_as=subscriber)
 - 📫 How to reach me:
-  - Email: sid12.dubey@gmail.com
+  - Email: sid@siddhantdubey.com
   - Twitter: @sidcodes
 - ⚡ Fun fact: I love fantasy books.
 
