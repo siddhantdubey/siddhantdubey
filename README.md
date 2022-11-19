@@ -1,12 +1,18 @@
-### Hi there 👋 I'm Sid.
+### Hi there 👋 I'm Siddhant.
 
-- 👯 I’m looking to collaborate on Machine Learning Projects and Web Apps. As long as it is interesting, I'm happy to collaborate. If you need a software engineering intern proficient with Flutter, React, HTML/CSS/JS, Python, C++, and/or Java reach out to me!
-- 💬 You can read up on my work here: [Sidd Codes](https://www.siddcodes.com/).
-- I make YouTube videos: [YouTube Channel](https://www.youtube.com/channel/UC5opyqV7wblMILfowGlPPnA?view_as=subscriber)
-- 📫 How to reach me:
-  - Email: sid@siddhantdubey.com
-  - Twitter: @sidcodes
-- ⚡ Fun fact: I love fantasy books.
+I'm currently focused on improving my system design and development skills by building projects that I'll use frequently. 
+
+My interests include:
+- Tools for Thought (things that make my creative life easier)
+- Web Dev
+- Compilers (Learning about these is on the to-do list)
+- Machine Learning (Like every other programmer)
+- Writing
+- [[Making Video Content]](https://youtube.com/c/SiddhantDubey)
+
+You can find out more about me on my [[personal blog]](https://siddubey.com/), I'll try to update it at least once every month.
+
+
 
 ## My GitHub Stats
 
