@@ -10,4 +10,4 @@ My interests include:
 - Writing
 - [Making Video Content](https://youtube.com/c/SiddhantDubey)
 
-You can find out more about me on my [[personal blog]](https://siddubey.com/), I'll try to update it at least once every month.
+You can find out more about me on my [personal blog](https://siddubey.com/), I'll try to update it at least once every month.
