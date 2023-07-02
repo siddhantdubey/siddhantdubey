@@ -1,8 +1,7 @@
 ### Hi. I'm Siddhant.
 
 Interests:
-- Tools for Thought
-- Compilers
+- Compilers & Interpreters
 - Machine Learning
 - Writing
 - [Videos](https://youtube.com/c/SiddhantDubey)
